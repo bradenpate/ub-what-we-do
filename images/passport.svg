@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="109px" viewBox="0 0 109 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>passport</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-866.000000, -2345.000000)">
+            <g id="passport" transform="translate(866.000000, 2345.000000)">
+                <path d="M109,54.5 C109,84.5994109 84.5994109,109 54.5,109 C24.4005891,109 0,84.5994109 0,54.5 C0,24.4005891 24.4005891,0 54.5,0 C84.5994109,0 109,24.4005891 109,54.5" id="Fill-12" fill="#FFFFFF"></path>
+                <polygon id="Stroke-99" stroke="#191919" points="40 76 68 76 68 35 40 35"></polygon>
+                <polyline id="Stroke-100" stroke="#191919" points="66 35 65.8403735 32 40 35"></polyline>
+                <path d="M62,50 C62,45.5816576 58.4185329,42 54.0004256,42 C49.5814671,42 46,45.5816576 46,50 C46,54.4183424 49.5814671,58 54.0004256,58 C58.4185329,58 62,54.4183424 62,50 Z" id="Stroke-101" stroke="#191919"></path>
+                <path d="M54,58 L54,42" id="Stroke-102" stroke="#191919"></path>
+                <path d="M46,50 L62,50" id="Stroke-103" stroke="#191919"></path>
+                <path d="M57,58 C57,58 59,54.6413694 59,50.5 C59,46.3577997 57,43 57,43" id="Stroke-104" stroke="#191919"></path>
+                <path d="M52,43 C52,43 50,46.3577997 50,50.5 C50,54.6422003 52,58 52,58" id="Stroke-105" stroke="#191919"></path>
+                <path d="M48,65 L60,65" id="Stroke-106" stroke="#191919"></path>
+            </g>
+        </g>
+    </g>
+</svg>

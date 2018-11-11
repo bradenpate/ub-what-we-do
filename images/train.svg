@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="109px" viewBox="0 0 109 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>train</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-332.000000, -2474.000000)">
+            <g id="train" transform="translate(332.000000, 2474.000000)">
+                <path d="M109,54.5 C109,84.5994109 84.5987551,109 54.4995776,109 C24.4004,109 0,84.5994109 0,54.5 C0,24.4005891 24.4004,0 54.4995776,0 C84.5987551,0 109,24.4005891 109,54.5" id="Fill-3" fill="#FFFFFF"></path>
+                <polygon id="Stroke-132" stroke="#191919" points="37 77 72 77 72 34 37 34"></polygon>
+                <polygon id="Stroke-133" stroke="#191919" points="42 62 66 62 66 51 42 51"></polygon>
+                <path d="M48,45 L62,45" id="Stroke-134" stroke="#191919"></path>
+                <polyline id="Stroke-135" stroke="#191919" points="46.0668877 77 43.0338582 80.5004243 40 84 68 84 65.0970759 80.4622378 62.256304 77"></polyline>
+                <path d="M44,79 L65,79" id="Stroke-136" stroke="#191919"></path>
+                <path d="M66,65 C66,66.1049305 65.1049305,67 64,67 C62.8950695,67 62,66.1049305 62,65 C62,63.8950695 62.8950695,63 64,63 C65.1049305,63 66,63.8950695 66,65 Z" id="Stroke-137" stroke="#191919"></path>
+                <path d="M46,65 C46,66.1049305 45.1049305,67 44,67 C42.8950695,67 42,66.1049305 42,65 C42,63.8950695 42.8950695,63 44,63 C45.1049305,63 46,63.8950695 46,65 Z" id="Stroke-138" stroke="#191919"></path>
+            </g>
+        </g>
+    </g>
+</svg>

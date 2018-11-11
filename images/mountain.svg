@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="109px" viewBox="0 0 109 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>moujtain</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-466.000000, -2474.000000)">
+            <g id="moujtain" transform="translate(466.000000, 2474.000000)">
+                <path d="M109,54.5 C109,84.5994109 84.5996,109 54.4995776,109 C24.4004,109 0,84.5994109 0,54.5 C0,24.4005891 24.4004,0 54.4995776,0 C84.5996,0 109,24.4005891 109,54.5" id="Fill-5" fill="#FFFFFF"></path>
+                <polygon id="Stroke-139" stroke="#191919" points="79 77 29 77 54 28"></polygon>
+                <path d="M45,45 C47.552321,46.2791173 50.4403647,47 53.5,47 C56.5588063,47 59.447679,46.2791173 62,45" id="Stroke-140" stroke="#191919"></path>
+            </g>
+        </g>
+    </g>
+</svg>

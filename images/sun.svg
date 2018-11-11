@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="109px" viewBox="0 0 109 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>sun</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-866.000000, -2475.000000)">
+            <g id="sun" transform="translate(866.000000, 2475.000000)">
+                <path d="M109,54.5 C109,84.6002558 84.5994109,109 54.5,109 C24.4005891,109 0,84.6002558 0,54.5 C0,24.4005891 24.4005891,0 54.5,0 C84.5994109,0 109,24.4005891 109,54.5" id="Fill-21" fill="#FFFFFF"></path>
+                <path d="M62,56.5 C62,52.9104982 59.0901581,50 55.4995772,50 C51.9098419,50 49,52.9104982 49,56.5 C49,60.0903473 51.9098419,63 55.4995772,63 C59.0901581,63 62,60.0903473 62,56.5 Z" id="Stroke-38" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M55,80 L55,71" id="Stroke-40" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M55,42 L55,33" id="Stroke-42" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M66,76 L62,69" id="Stroke-44" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M47,43 L43,36" id="Stroke-46" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M75,67 L68,63" id="Stroke-48" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M42,49 L35,45" id="Stroke-50" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M79,56 L70,56" id="Stroke-52" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M41,56 L32,56" id="Stroke-54" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M42,63 L35,67" id="Stroke-56" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M75,45 L68,49" id="Stroke-58" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M47,69 L43,76" id="Stroke-60" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M66,36 L62,43" id="Stroke-62" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

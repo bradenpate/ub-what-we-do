@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="40px" viewBox="0 0 64 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>email</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Desktop" transform="translate(-676.000000, -8569.000000)" stroke="#FFFFFF">
+            <g id="FAQs" transform="translate(-2.000000, 8328.000000)">
+                <g id="email" transform="translate(678.000000, 241.000000)">
+                    <polygon id="Stroke-1" points="0.96969697 39.4538182 63.030303 39.4538182 63.030303 0.908363636 0.96969697 0.908363636"></polygon>
+                    <polyline id="Stroke-3" points="0.96950303 0.908545455 31.9998061 30.1049091 63.0301091 0.908545455"></polyline>
+                    <path d="M42.5489455,20.1823636 L63.0308848,39.4550909" id="Stroke-4"></path>
+                    <path d="M0.96950303,39.4543636 L21.4533818,20.1816364" id="Stroke-5"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

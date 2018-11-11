@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Not Alone icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-1118.000000, -1065.000000)" stroke="#FD555C">
+            <g id="Top-Overview" transform="translate(0.000000, 952.000000)">
+                <g id="Not-Alone-icon" transform="translate(1119.000000, 114.000000)">
+                    <path d="M18,23.5 C18,19.357813 14.6420579,16 10.5002884,16 C6.35736532,16 3,19.357813 3,23.5 C3,27.642187 6.35736532,31 10.5002884,31 C14.6420579,31 18,27.642187 18,23.5 Z" id="Stroke-1"></path>
+                    <path d="M0,42 C0,36.4774891 4.70136358,32 10.5,32 C16.2992536,32 21,36.4774891 21,42 L0,42 Z" id="Stroke-3"></path>
+                    <path d="M27,23.5 C27,19.357813 23.6426347,16 19.5002884,16 C15.3573653,16 12,19.357813 12,23.5 C12,27.642187 15.3573653,31 19.5002884,31 C23.6426347,31 27,27.642187 27,23.5 Z" id="Stroke-5"></path>
+                    <path d="M11,42 C11,36.4774891 15.7007464,32 21.5,32 C27.2986364,32 32,36.4774891 32,42 L11,42 Z" id="Stroke-7"></path>
+                    <path d="M39,23.5 C39,19.357813 35.642187,16 31.5,16 C27.3572362,16 24,19.357813 24,23.5 C24,27.642187 27.3572362,31 31.5,31 C35.642187,31 39,27.642187 39,23.5 Z" id="Stroke-9"></path>
+                    <path d="M21,42 C21,36.4774891 25.7013636,32 31.5,32 C37.2992536,32 42,36.4774891 42,42 L21,42 Z" id="Stroke-11"></path>
+                    <path d="M21,6 L21,0" id="Stroke-13" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M15,8 L12,3" id="Stroke-15" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M11,12 L6,9" id="Stroke-17" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M34,9 L29,12" id="Stroke-19" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M29,3 L26,8" id="Stroke-21" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

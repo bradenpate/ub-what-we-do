@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="109px" viewBox="0 0 109 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>bike</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-734.000000, -2345.000000)">
+            <g id="bike" transform="translate(734.000000, 2345.000000)">
+                <path d="M109,54.5 C109,84.5994109 84.5996,109 54.4995776,109 C24.4004,109 0,84.5994109 0,54.5 C0,24.4005891 24.4004,0 54.4995776,0 C84.5996,0 109,24.4005891 109,54.5" id="Fill-14" fill="#FFFFFF"></path>
+                <path d="M48,59 C48,51.8207095 42.1799354,46 34.9995845,46 C27.8208955,46 22,51.8207095 22,59 C22,66.1792905 27.8208955,72 34.9995845,72 C42.1799354,72 48,66.1792905 48,59 Z" id="Stroke-113" stroke="#191919"></path>
+                <path d="M88,59 C88,51.8207095 82.1799354,46 74.9995845,46 C67.8208955,46 62,51.8207095 62,59 C62,66.1792905 67.8208955,72 74.9995845,72 C82.1799354,72 88,66.1792905 88,59 Z" id="Stroke-114" stroke="#191919"></path>
+                <path d="M43,37 L52,37" id="Stroke-115" stroke="#191919"></path>
+                <polyline id="Stroke-116" stroke="#191919" points="47.2424107 40 36 59 53.861239 59 70 42.1276866"></polyline>
+                <path d="M54,60 L46,37" id="Stroke-117" stroke="#191919"></path>
+                <path d="M69,40 L47,40" id="Stroke-118" stroke="#191919"></path>
+                <polyline id="Stroke-119" stroke="#191919" points="76 60 68 37 75.1953925 37"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

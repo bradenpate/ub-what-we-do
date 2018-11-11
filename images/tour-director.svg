@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="110px" viewBox="0 0 110 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>tour-director</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-465.000000, -2342.000000)">
+            <g id="tour-director" transform="translate(465.000000, 2342.000000)">
+                <path d="M109.305308,54.6918308 C109.305308,84.8360615 84.8683846,109.272985 54.7233077,109.272985 C24.5790769,109.272985 0.142153846,84.8360615 0.142153846,54.6918308 C0.142153846,24.5476 24.5790769,0.110676923 54.7233077,0.110676923 C84.8683846,0.110676923 109.305308,24.5476 109.305308,54.6918308" id="Fill-31" fill="#FFFFFF"></path>
+                <path d="M66,58 C66,51.9247924 61.0752076,47 55,47 C48.9247924,47 44,51.9247924 44,58 C44,64.0752076 48.9247924,69 55,69 C61.0752076,69 66,64.0752076 66,58 Z" id="Stroke-125" stroke="#191919"></path>
+                <path d="M40,83 C40,75.2684848 46.4916978,69 54.5004261,69 C62.5083022,69 69,75.2684848 69,83 L40,83 Z" id="Stroke-126" stroke="#191919"></path>
+                <path d="M55,34 L55,25" id="Stroke-127" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M47,35 L43,28" id="Stroke-128" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M42,41 L35,37" id="Stroke-129" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M74,37 L67,41" id="Stroke-130" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M66,28 L62,35" id="Stroke-131" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

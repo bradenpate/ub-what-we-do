@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="110px" viewBox="0 0 110 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>meals</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.6215 0.837353846 109.784231 0.837353846 109.784231 109.999662 0.6215 109.999662"></polygon>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-1133.000000, -2474.000000)">
+            <g id="meals" transform="translate(1133.000000, 2474.000000)">
+                <g id="Group-20">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-19"></g>
+                    <path d="M109.784654,55.4185077 C109.784654,85.5635846 85.3477308,109.999662 55.2026538,109.999662 C25.0584231,109.999662 0.6215,85.5635846 0.6215,55.4185077 C0.6215,25.2742769 25.0584231,0.837353846 55.2026538,0.837353846 C85.3477308,0.837353846 109.784654,25.2742769 109.784654,55.4185077" id="Fill-18" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                </g>
+                <path d="M35.4281575,61.9408173 L35.4281575,81 L41,81 L41,33 C41,33 31,35.3059674 31,54.3171442 C31,62.4124542 35.4281575,61.9408173 35.4281575,61.9408173 Z" id="Stroke-141" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M54.5008554,33 C50.9108435,33 48,36.9289765 48,41.7772301 L48,46.6823024 C48,50.1728415 49.5191473,53.1596438 51.7029214,54.5741771 L51.7029214,81 L57.2953678,81 L57.2953678,54.5758732 C59.4799974,53.1621879 61,50.1728415 61,46.6823024 L61,41.7772301 C61,36.9289765 58.0891565,33 54.5008554,33 Z" id="Stroke-142" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M67,33 L67,46.8173371 C67,50.2940555 68.5183918,53.2698765 70.7031651,54.678809 L70.7031651,81 L76.2959795,81 L76.2959795,54.6804984 C78.4807528,53.2724105 80,50.2940555 80,46.8173371 L80,33" id="Stroke-143" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M67,43 L79,43" id="Stroke-144" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M71,42 L71,33" id="Stroke-145" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M75,42 L75,33" id="Stroke-146" stroke="#191919" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

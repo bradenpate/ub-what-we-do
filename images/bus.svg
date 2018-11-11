@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="109px" viewBox="0 0 109 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>bus</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-599.000000, -2343.000000)">
+            <g id="bus" transform="translate(599.000000, 2343.000000)">
+                <path d="M109,54.5 C109,84.5994109 84.5996,109 54.5004224,109 C24.4004,109 0,84.5994109 0,54.5 C0,24.4005891 24.4004,0 54.5004224,0 C84.5996,0 109,24.4005891 109,54.5" id="Fill-29" fill="#FFFFFF"></path>
+                <path d="M39,67.9995485 C39,66.3426637 37.6575384,65 36.0009028,65 C34.3442672,65 33,66.3426637 33,67.9995485 C33,69.6564334 34.3442672,71 36.0009028,71 C37.6575384,71 39,69.6564334 39,67.9995485 Z" id="Stroke-86" stroke="#191919"></path>
+                <path d="M76,67.9995485 C76,66.3426637 74.6573363,65 73.0004515,65 C71.3435666,65 70,66.3426637 70,67.9995485 C70,69.6564334 71.3435666,71 73.0004515,71 C74.6573363,71 76,69.6564334 76,67.9995485 Z" id="Stroke-88" stroke="#191919"></path>
+                <polyline id="Stroke-90" stroke="#191919" points="33.4839889 68 27 68 27 46 83 46 83 68 76.1917275 68"></polyline>
+                <path d="M39,68 L71,68" id="Stroke-92" stroke="#191919"></path>
+                <polygon id="Stroke-94" stroke="#191919" points="76 58 83 58 83 49 76 49"></polygon>
+                <path d="M83,58 L27,58" id="Stroke-96" stroke="#191919"></path>
+                <path d="M83,49 L27,49" id="Stroke-97" stroke="#191919"></path>
+                <polygon id="Stroke-98" stroke="#191919" points="44 68 50 68 50 49 44 49"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="109px" viewBox="0 0 109 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>flights</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-198.000000, -2342.000000)">
+            <g id="flights" transform="translate(198.000000, 2342.000000)">
+                <path d="M109,54.5 C109,84.5994109 84.5994109,109 54.5,109 C24.4005891,109 0,84.5994109 0,54.5 C0,24.4005891 24.4005891,0 54.5,0 C84.5994109,0 109,24.4005891 109,54.5" id="Fill-34" fill="#FFFFFF"></path>
+                <polyline id="Stroke-147" stroke="#191919" stroke-linejoin="bevel" points="42.6190271 69 34 64 44 64.3926789"></polyline>
+                <polyline id="Stroke-149" stroke="#191919" points="52.048149 51 34 46.505559 37.2207508 41 57 42.536374"></polyline>
+                <polyline id="Stroke-150" stroke="#191919" points="63.7663014 47 74 63.6646097 70.8980822 69 59 55.2092718"></polyline>
+                <path d="M70.0963204,28.5461149 C68.1355185,27.3586372 65.4887316,28.1721531 64.1851912,30.3614055 L46.1409139,60.670199 C44.8373734,62.8603032 40.5440536,73.7043432 42.5048555,74.8918209 C44.4656574,76.0784468 51.9388387,67.1587341 53.2423791,64.9694818 L71.2866564,34.6598364 C72.5901969,32.4697322 72.0571223,29.7327408 70.0963204,28.5461149 Z" id="Stroke-151" stroke="#191919"></path>
+                <polyline id="Stroke-148" stroke="#191919" stroke-linejoin="bevel" points="50.3035661 68 55 76 47 71.2062226"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="109px" viewBox="0 0 109 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>crown</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-1000.000000, -2345.000000)">
+            <g id="crown" transform="translate(1000.000000, 2345.000000)">
+                <path d="M109,54.5 C109,84.5994109 84.5987551,109 54.4995776,109 C24.4004,109 0,84.5994109 0,54.5 C0,24.4005891 24.4004,0 54.4995776,0 C84.5987551,0 109,24.4005891 109,54.5" id="Fill-7" fill="#FFFFFF"></path>
+                <polyline id="Stroke-70" stroke="#191919" points="34 61 34 74 75 74 75 61"></polyline>
+                <path d="M36,36.5 C36,35.1197486 34.8802514,34 33.5,34 C32.1197486,34 31,35.1197486 31,36.5 C31,37.8810784 32.1197486,39 33.5,39 C34.8802514,39 36,37.8810784 36,36.5 Z" id="Stroke-72" stroke="#191919"></path>
+                <path d="M57,36.5 C57,35.1197486 55.8802514,34 54.500827,34 C53.1197486,34 52,35.1197486 52,36.5 C52,37.8810784 53.1197486,39 54.500827,39 C55.8802514,39 57,37.8810784 57,36.5 Z" id="Stroke-74" stroke="#191919"></path>
+                <path d="M77,36.5 C77,35.1197486 75.8804366,34 74.5004134,34 C73.1195634,34 72,35.1197486 72,36.5 C72,37.8810784 73.1195634,39 74.5004134,39 C75.8804366,39 77,37.8810784 77,36.5 Z" id="Stroke-76" stroke="#191919"></path>
+                <path d="M34,66 L75,66" id="Stroke-78" stroke="#191919"></path>
+                <polyline id="Stroke-80" stroke="#191919" points="34 60 34 47 44.2506319 60 54.5004212 47 64.7502106 60 75 47 75 60"></polyline>
+                <polyline id="Stroke-82" stroke="#191919" points="60 54 65 47 70 54"></polyline>
+                <polyline id="Stroke-84" stroke="#191919" points="39 54 44.0004109 47 49 54"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

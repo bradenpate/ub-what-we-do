@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="109px" viewBox="0 0 109 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>wine</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-1000.000000, -2475.000000)">
+            <g id="wine" transform="translate(1000.000000, 2475.000000)">
+                <path d="M109,54.5 C109,84.6002558 84.5987551,109 54.4995776,109 C24.4004,109 0,84.6002558 0,54.5 C0,24.4005891 24.4004,0 54.4995776,0 C84.5987551,0 109,24.4005891 109,54.5" id="Fill-16" fill="#FFFFFF"></path>
+                <path d="M47,83 L63,83" id="Stroke-107" stroke="#191919"></path>
+                <path d="M55,65 L55,83" id="Stroke-108" stroke="#191919"></path>
+                <path d="M43,53.4217472 C43,59.8157716 48.1483399,65 54.4991496,65 C60.8508097,65 66,59.8157716 66,53.4217472 L66,36 L43,36 L43,53.4217472 Z" id="Stroke-109" stroke="#191919"></path>
+                <path d="M43,50.6659877 C53.7788582,54.7345617 58.00281,47.9392768 66,50.6659877" id="Stroke-110" stroke="#191919"></path>
+            </g>
+        </g>
+    </g>
+</svg>

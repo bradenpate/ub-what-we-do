@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="109px" viewBox="0 0 109 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>location</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-599.000000, -2474.000000)">
+            <g id="location" transform="translate(599.000000, 2474.000000)">
+                <path d="M109,54.5 C109,84.5994109 84.5996,109 54.5004224,109 C24.4004,109 0,84.5994109 0,54.5 C0,24.4005891 24.4004,0 54.5004224,0 C84.5996,0 109,24.4005891 109,54.5" id="Fill-25" fill="#FFFFFF"></path>
+                <path d="M69,48.7460886 C69,40.6019793 62.5083839,34 54.500417,34 C46.4924502,34 40,40.6019793 40,48.7460886 C40,56.8901979 54.500417,79 54.500417,79 C54.500417,79 69,56.8901979 69,48.7460886 Z" id="Stroke-111" stroke="#191919"></path>
+                <path d="M61,48.9995708 C61,45.6856448 58.3134969,43 55.0004292,43 C51.6856448,43 49,45.6856448 49,48.9995708 C49,52.3134969 51.6856448,55 55.0004292,55 C58.3134969,55 61,52.3134969 61,48.9995708 Z" id="Stroke-112" stroke="#191919"></path>
+            </g>
+        </g>
+    </g>
+</svg>
